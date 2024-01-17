@@ -1,2 +1,2 @@
-run backend :- npm start
+run backend :- npm start,
 run frontend :- npm start
